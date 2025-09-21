@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I’m Irah Tanhueco!  
 
-<!--
-**kinglaxuss/kinglaxuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Graduating Computer Engineering Student | 🌐 Frontend Web Developer 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills  
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Other Tools:** GitKraken, GitHub  
+
+---
+
+## 📂 Projects  
+-
+
+---
+
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]([your-linkedin-link](https://www.linkedin.com/in/irah-lourene-tanhueco-241027383/))  
+[![Email](https://img.shields.io/badge/Email-me-red?logo=gmail)](mailto:irahtanhueco9@gmail.com)  
+
+---
+✨ _Thanks for visiting my profile!_ ✨
