@@ -11,7 +11,10 @@
 ---
 
 ## 📂 Projects  
--
+- 🍲 **LeRecipe** – A recipe-sharing platform built with Django REST Framework and React.  
+   Users can create, share, and discover recipes, bookmark favorites, and engage in a community with comments, likes, and forum posts.  
+
+- 🎓 **TheoryUniversity** – A sample design of a school website showcasing homepage, school news, and other student-focused sections.  
 
 ---
 
