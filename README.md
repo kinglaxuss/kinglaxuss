@@ -6,7 +6,7 @@
 ---
 
 ### 👩‍💻 About Me
-🎓 A **Computer Engineering Student** passionate about technology, design, and innovation.  
+🎓 A **Computer Engineer graduate** passionate about technology, design, and innovation.  
 💡 I love creating things — from web interfaces to system ideas that make life easier.  
 🌱 Always learning new tools and improving my coding and problem-solving skills.  
 💬 I enjoy collaborating, sharing ideas, and continuously growing as a developer.
