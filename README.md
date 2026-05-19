@@ -8,7 +8,8 @@
 ### 👩‍💻 About Me
 🎓 A **Computer Engineer graduate** passionate about technology, design, and innovation.  
 💡 I love creating things — from web interfaces to system ideas that make life easier.  
-🌱 Always learning new tools and improving my coding and problem-solving skills.  
+🌱 Always learning new tools and improving my coding and problem-solving skills.
+🛍️ Interested in WordPress and Shopify development, especially in creating modern and user-friendly websites.
 💬 I enjoy collaborating, sharing ideas, and continuously growing as a developer.
 
 ---
@@ -17,6 +18,7 @@
 ✨ Frontend development, UI design, and basic backend concepts.  
 ⚙️ Building simple yet functional applications and exploring creative projects.  
 💻 Currently enhancing my skills in full-stack and modern development tools.
+🛒 Exploring WordPress customization and Shopify store development.
 
 ---
 
